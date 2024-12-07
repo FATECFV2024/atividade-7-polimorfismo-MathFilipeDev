@@ -17,3 +17,4 @@ public class Pokedex {
         //System.out.println("Especial: "+j1.especial());
     }
 }
+ 
